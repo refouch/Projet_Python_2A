@@ -1,0 +1,10 @@
+#Files to ignore
+
+#Byte-compiled:
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#Dataframes and .csv files
+*.csv
