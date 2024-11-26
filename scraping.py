@@ -17,44 +17,51 @@ def scrape_first_table(url):
     table = page.find("table")
     return table
 
-def make_rows(table):
+def table_to_list(table):
     """Fonction prenant le tableau au format html pour le diviser dans une liste 
         Chaque item de la liste correspond alors à une ligne du tableau
         Args: table (bs4 element)
         Return: rows (list)
     """
-    result = []
+    data = []
+    header = []
 
-    # Pour le corps du tableau
     body = table.find("tbody")
     rows = body.find_all("tr")
-    for row in rows:
+
+    #Pour les en-tête:
+    row = rows[0]
+    cols = row.find_all("th")
+    cols = [ele.text.strip() for ele in cols]
+    header.append(cols)
+
+    # Pour le corps du tableau:
+    for row in rows[1:]:
         cols = row.find_all("td")
         cols = [ele.text.strip() for ele in cols]
-        result.append(cols)
+        data.append(cols)
 
-    return result
+    return data, header
 
-def make_pandas(rows):
+def make_pandas(data, header):
     dictionnaire = dict()
-    for row in rows:
+    for row in data:
         if len(row) > 0:
             dictionnaire[row[0]] = row[1:]
-        print(dictionnaire)
 
     data_pays = pd.DataFrame.from_dict(dictionnaire, orient="index")
+    data_pays.columns = header[0][1:]
 
     return data_pays
         
 table = scrape_first_table(url)
-rows = make_rows(table)
-data_pays = make_pandas(rows)
+data, header = table_to_list(table)
+data_pays = make_pandas(data, header)
 
 print(data_pays.head())
 
 #---------------------------------------- RESTE A FAIRE --------------------------------------------
-# -
-# IMPLEMENTER UN BOUT DE CODE POUR RECUPERER LES EN TÊTE ET LES INTEGRER AU PANDA
+#
 # SUPPRIMER LA DERNIERE LIGNE DU TABLEAU SUR LES NOTES
 # TIDY LES DONNEES ET PRENDRE DES DECISIONS SUR COMMENT REPRESENTER CHAQUE VARIABLE
 # + EVENTUELLEMENT MERGE CA AVEC LES DONNES EUROPEENNES.
