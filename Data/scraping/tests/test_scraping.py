@@ -1,5 +1,5 @@
 import sys 
-sys.path.append("code/")
+sys.path.append("Data/scraping")
 
 import unittest 
 import scraping as s
