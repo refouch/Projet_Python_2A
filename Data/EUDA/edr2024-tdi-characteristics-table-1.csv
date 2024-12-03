@@ -1,0 +1,8 @@
+Country,Male,Female,Status: first time,Status: previously treated,Unknown treatment status,Age at first use,Age at first treatment,Frequency of use: daily,Frequency of use: 4 to 6 days per week,Frequency of use: 2 to 3 days per week,Frequency of use: once a week or less,Frequency of use: not used in the last 30 days,Substance,Route: Injecting,Route: Smoking/inhaling,Route: eating/drinking,Route: sniffing,Route: other
+EU,76,24,4774,4318,570,21,31,28,14,16,13,30,Amphetamine,6,9,17,68,0
+EU,82,18,58424,27020,6524,16,25,48,10,10,9,24,Cannabis,,,,,
+EU,84,16,28730,27997,2395,22,35,27,13,22,16,21,Cocaine,2,27,2,69,1
+EU,82,18,11845,33807,2599,23,37,58,7,8,5,22,Heroin,31,52,1,15,1
+EU,73,27,330,272,15,20,27,42,17,18,11,12,Ketamine,1,10,14,74,1
+EU,78,22,6454,5202,376,23,30,42,12,15,11,21,Methamphetamine,22,48,2,28,0
+EU,83,17,763,337,111,27,30,23,13,26,24,14,Cathinones,23,12,5,59,2

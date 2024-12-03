@@ -1,0 +1,24 @@
+﻿"Country","City","lat,lon","Hospital","Year","All presentations","Heroin (%)"
+"Belgium","Antwerp","51.221,4.400","Antwerp",2022,329,4
+"Belgium","Ghent","51.054,3.725","Ghent",2022,48,2.1
+"Bulgaria","Sofia","42.698,23.322","Sofia",2022,35,5.7
+"Cyprus","Nicosia","35.175,33.364","Nicosia",2022,7,0
+"Estonia","Parnu","58.384,24.508","Parnu",2022,14,0
+"France","Paris","48.853,2.348","Paris",2022,317,2.8
+"Germany","Munich","48.137,11.575","Munich",2022,43,16.3
+"Ireland","Drogheda","53.712,-6.333","Drogheda",2022,52,38.5
+"Ireland","Dublin","53.350,-6.260","Dublin",2022,565,20
+"Italy","Rozzano","45.383,9.154","Rozzano",2022,18,0
+"Latvia","Riga","56.949,24.105","Riga",2022,35,0
+"Lithuania","Vilnius","54.687,25.283","Vilnius",2022,118,0.8
+"Malta","Msida","35.896,14.489","Msida",2022,1134,13.9
+"Netherlands","Amsterdam","52.373,4.892","Amsterdam",2022,670,2.1
+"Netherlands","Utrecht","52.081,5.128","Utrecht",2022,23,4.3
+"Norway","Oslo","59.913,10.739","Oslo OAEOC",2022,1568,36.4
+"Norway","Oslo","59.913,10.739","Oslo OUH",2022,171,15.8
+"Poland","Gdansk","54.371,18.613","Gdansk",2022,59,8.5
+"Romania","Bucharest","44.436,26.103","Bucharest",2022,61,3.3
+"Slovakia","Bratislava","48.152,17.109","Bratislava",2022,82,4.9
+"Slovenia","Ljubljana","46.050,14.507","Ljubljana",2022,159,24.5
+"Spain","Barcelona","41.383,2.177","Barcelona",2022,253,2.4
+"Spain","Mallorca","39.613,2.883","Mallorca",2022,539,8
