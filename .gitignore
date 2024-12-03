@@ -7,4 +7,4 @@ __pycache__/
 .ipynb_checkpoints
 
 #Dataframes and .csv files
-*.csv
+#*.csv
