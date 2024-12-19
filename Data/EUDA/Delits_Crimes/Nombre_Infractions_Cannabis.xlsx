@@ -1,0 +1,1768 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://www.euda.europa.eu/data/stats2024/dlo_en -->
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" coupert-item="9AF8D9A4E502F3784AD24272D81F0381" class="js eu-cookie-compliance-status-2" data-once="drupal-dialog-deprecation-listener" data-eu-cookie-compliance-once="true"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+<script type="text/javascript" defer="" async="" src="./Nombre_Infractions_Cannabis_files/matomo.js.télécharger"></script><script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://www.euda.europa.eu/" : "https://www.euda.europa.eu/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["setAPIUrl", "//piwik.emcdda.europa.eu/"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="description" content="Reports of offences against national drug legislation (use, posse">
+<link rel="canonical" href="https://www.euda.europa.eu/data/stats2024/dlo_en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site:id" content="@EMCDDA">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<noscript><link rel="stylesheet" media="screen" href="/themes/custom/euda/dist/css/noscript.css" />
+</noscript><link rel="icon" href="https://www.euda.europa.eu/themes/custom/euda/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" hreflang="en" href="https://www.euda.europa.eu/data/stats2024/dlo_en">
+
+    <title>Statistical Bulletin 2024 — drug law offences | www.euda.europa.eu</title>
+    <link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/css_sHeBgc4F58VZonmJoxr4WCTdfj0aC4Fi_n8TNvaJQ6o.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/fontawesome.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/solid.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/brands.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/css_aqh8pmpn7ilNeeH0pXZpjo9rx_kV0baOuBw3yDOA95k.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/css_Ma3Rp_0-fhp4CfSXpNFwCouiT2fC8LjhzaliGQ6lcPM.css">
+<link rel="stylesheet" media="print" href="./Nombre_Infractions_Cannabis_files/css_p0TOnPvblXU0jlDSbjOkfGE-_twJsTyvC98AsbD7vBc.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/css_mUA18Qcc189OE1zY4rUZi4JSGm1cgb9tMEM7HgfU1UY.css">
+<link rel="stylesheet" media="all" href="./Nombre_Infractions_Cannabis_files/css_-gnV6RnA9OClBiETY4H2P4ONvupDI-MXWkHkKiebhRU.css">
+
+      <script src="./Nombre_Infractions_Cannabis_files/js_3gBm6X3IHyF_6JvE7Dn4MGJcU1bAO6TjrRWF3yztFB0.js.télécharger"></script>
+
+</head>
+<body class="path-node node-type-page bg- d-flex flex-column" data-once="dropbutton-click" style="">
+<span id="top"></span>
+<a href="https://www.euda.europa.eu/data/stats2024/dlo_en#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100 frontend-wrapper" data-off-canvas-main-canvas="">
+    
+
+
+<nav id="header-top" class="navbar bg-extra-light">
+  <div id="header-top-inner" class="container">
+    <a href="https://www.euda.europa.eu/" class="d-none d-sm-block nav-link fas fa-home" id="home">
+      <span class="visually-hidden">Homepage</span>
+    </a>
+    <div class="nav me-auto">
+              
+  <div class="px-0 pe-md-2">
+    <div aria-labelledby="block-block-menu-quick-links-menu" class="quick-links" id="block-block-menu-quick-links">
+  
+  <a id="nav-link-menu-quick-links" class="nav-link" data-bs-toggle="offcanvas" href="https://www.euda.europa.eu/data/stats2024/dlo_en#block-block-menu-quick-links-menu" role="button" aria-controls="block-block-menu-quick-links-menu">Quick links</a>
+  
+    <div class="offcanvas offcanvas-start bg-white" tabindex="-1" id="block-block-menu-quick-links-menu" aria-labelledby="quick-links">
+    <div class="offcanvas-header">
+      <h2 class="h6 mb-0" id="quick-links">Quick links</h2>
+      <button type="button" class="btn-close text-reset text-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body pt-0">
+              
+        <ul class="nav navbar-nav">
+            <li class="nav-item">
+      <a href="https://www.euda.europa.eu/activities/campaigns_en" class="nav-link" title="Currently active EMCDDA campaigns" data-drupal-link-system-path="node/14643">Campaigns</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/topics/cannabis-policy" class="nav-link">Cannabis policy: recent developments</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/data/data-catalogue_en" class="nav-link" data-drupal-link-system-path="node/31312">Data catalogue</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/document-library_en" class="nav-link" title="EMCDDA repository&#39;s of useful documents, mainly published by third-parties but also EMCDDA working documents etc." data-drupal-link-system-path="document-library">Document library</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/drug-profiles" class="nav-link">Drug profiles</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/archived/publications/topic-overviews/eu-early-warning-system_en" class="nav-link" data-drupal-link-system-path="node/10079">EU Early Warning System (EWS) on NPS</a>
+          </li>
+          <li class="nav-item">
+      <a href="http://www.espad.org/" class="nav-link ext" data-extlink="" target="_blank" rel="noopener noreferrer" title="(opens in a new window)">ESPAD</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/publications/eu-drug-markets_en" class="nav-link" data-drupal-link-system-path="node/14540">EU Drug Markets: In-depth analysis</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/publications/european-drug-report/2024_en" class="nav-link" data-drupal-link-system-path="node/31854">European Drug Report</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/publications/health-and-social-responses-a-european-guide_en" class="nav-link" data-drupal-link-system-path="node/14110">European Responses Guide</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.lisbonaddictions.eu/" class="nav-link ext" data-extlink="" target="_blank" rel="noopener noreferrer" title="(opens in a new window)">Lisbon addictions</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/media-library_en" class="nav-link" data-drupal-link-system-path="media-library">Media library</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/about/partners" class="nav-link">Partners</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/data/stats2024_en" class="nav-link" data-drupal-link-system-path="node/31944">Statistical Bulletin</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://www.euda.europa.eu/publications-database_en?f%5B0%5D=publication_type%3A3305" title="Toolkits published by the EUDA" class="nav-link" data-drupal-link-query="{&quot;f&quot;:[&quot;publication_type:3305&quot;]}" data-drupal-link-system-path="publications-database">Toolkits</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://wayback.archive-it.org/12090/*/https://www.emcdda.europa.eu/" title="(Official archive of the EMCDDA website up to 2 July 2024, archived by the Publications Office of the European Union, opens in a new window)" class="nav-link ext" data-extlink="" target="_blank" rel="noopener noreferrer">Web archive (up to 2 July 2024) — EMCDDA</a>
+          </li>
+          <li class="nav-item">
+      <a href="https://wayback.archive-it.org/12090/*/https:/www.euda.europa.eu/" title="(Official archive of the EUDA website from 2 July 2024, archived by the Publications Office of the European Union, opens in a new window)" class="nav-link ext" data-extlink="" target="_blank" rel="noopener noreferrer">Web archive (from 2 July 2024) — EUDA</a>
+          </li>
+  </ul>
+  
+
+
+          </div>
+  </div>
+</div>
+
+  </div>
+
+          </div>
+    <div class="nav ms-0 ms-sm-auto align-items-center pe-5 pe-lg-0">
+            <a class="menu-btn main-nav-toggler navbar-toggler d-xl-none" id="main-nav-toggler" data-bs-toggle="offcanvas" href="https://www.euda.europa.eu/data/stats2024/dlo_en#mainNavbar" role="button" aria-controls="mainNavbar" aria-label="Toggle main navigation">
+        <div class="menu-btn__burger"></div>
+      </a>
+    </div>
+  </div>
+</nav>
+
+<header id="header">
+  <div class="header-inner container-sm">
+          
+  
+  <a href="https://www.euda.europa.eu/index_en" title="Home" rel="home" class="site-logo d-block align-self-center">
+    <img src="./Nombre_Infractions_Cannabis_files/logo.svg" alt="Home" width="169">
+  </a>
+
+<div class="sr-only">
+      <div>
+      
+              <a href="https://www.euda.europa.eu/index_en" title="Home" rel="home" class="site-title">
+          www.euda.europa.eu
+        </a>
+      
+      </div>
+</div>
+<div id="block-dropdown-language-language-interface" class="block block-dropdown-language block-dropdown-languagelanguage-interface">
+  
+    
+
+  <!-- Button trigger collapse -->
+  <button type="button" class="btn btn-link btn-lang collapsed" data-bs-toggle="collapse" data-bs-target="#langCollapse" aria-expanded="false" aria-hidden="true">
+    <i class="fa fa-globe" aria-hidden="true"></i><span class="d-none d-lg-inline-block">English</span> <span class="d-inline-block d-lg-none">EN</span><span class="sr-only">Select another language</span>
+  </button>
+
+  <!-- Collapse -->
+  <div class="collapse fade langCollapse" id="langCollapse" tabindex="-1" aria-labelledby="langModalLabel" aria-hidden="true">
+    <h2 class="languages-heading" id="langModalLabel">Select your language</h2>
+    <nav>
+                <div class="dropbutton-wrapper dropbutton-single" data-once="dropbutton"><div class="dropbutton-widget"><ul class="mb-0 list-inline"><li class="active-language col nav-item"><span class="language-code">EN</span><span class="language-link active-language">English</span></li></ul></div></div>
+          </nav>
+  </div>
+</div>
+
+
+        <div id="searchWrapper">
+      <a class="d-inline-block d-md-none" id="search-toggler" data-bs-toggle="offcanvas" href="https://www.euda.europa.eu/data/stats2024/dlo_en#mainNavbar" role="button" aria-controls="mainNavbar" aria-label="Toggle search form">
+        <i class="fa fa-lg fa-search" aria-hidden="true" id="search-toggler-img"></i>
+        <span class="visually-hidden">Toggle search form</span>
+      </a>
+      <div class="d-none d-md-block">
+        
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <div class="duckduckgo search">
+<form action="https://duckduckgo.com/" class="no-menu" name="x"><input name="sites" type="hidden" value="euda.europa.eu"> <input name="ia" type="hidden" value="web"> <input name="q" placeholder="Search" type="search"><button class="button" type="submit">GO</button></form>
+
+<p class="info">Results hosted on duckduckgo.com</p>
+</div>
+
+      </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+  <div class="offcanvas offcanvas-start" tabindex="-1" id="mainNavbar" aria-labelledby="main-nav-toggler">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close text-reset text-white ms-auto" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body offcanvas-main-menu p-0">
+      <div aria-hidden="true" class="px-2 d-xl-none">
+        <div class="duckduckgo search fake-search">
+          <form id="fake-search-form">
+            <input class="fake-q" name="fake-q" placeholder="Search" type="search">
+            <button class="button" type="submit" id="fake-search-button">GO
+            </button>
+          </form>
+          <p class="info">Results hosted on duckduckgo.com</p>
+        </div>
+      </div>
+                <div class="region region-nav-main">
+    
+<div aria-labelledby="block-system-menu-ain-menu-menu" class="main-menu" id="block-system-menu-ain-menu">
+            
+  <h2 class="visually-hidden" id="block-system-menu-ain-menu-menu">Main navigation</h2>
+  
+
+        <div class="container-lg container-main-menu">
+
+<ul class="nav menu menu-level0" id="menu-main">
+                                                                        
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/data_en" data-bs-auto-close="outside">
+                            Data
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/data_en">Data</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/data_0.png.webp" width="500" height="280" alt="" title="banner for Data section with different graphic motifs" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>Explore the most recent data on the drug situation in Europe provided by the EU Member States. These datasets underpin the analysis presented in the agency's work. Most data may be viewed interactively on screen and downloaded in Excel format.</p>
+
+<p><a class="btn btn-primary btn-lg" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b988c8c6-1fa3-4161-bf9c-3aca5bb25cf3" href="https://www.euda.europa.eu/data_en" media_library="Media Library">Data&nbsp;<span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>Latest data</h3>
+
+<ul>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="fdc09257-c1d9-41e2-a969-40034c77936f" href="https://www.euda.europa.eu/data/stats2024/gps_en" media_library="Media Library">Prevalence of drug use</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7e709d39-47de-46db-bf5f-2c6aa4979bdf" href="https://www.euda.europa.eu/data/stats2024/drd_en" media_library="Media Library">Drug-induced deaths</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="34411478-1f4d-48a8-b276-dab6ec21dd70" href="https://www.euda.europa.eu/data/stats2024/drid_en" media_library="Media Library">Infectious diseases</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5e68ce52-6d2f-4238-8fb7-b788fe40bf8c" href="https://www.euda.europa.eu/data/stats2024/pdu_en" media_library="Media Library">Problem drug use</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="30d78632-a63c-4164-be3c-3d1a2c5ed0b3" href="https://www.euda.europa.eu/data/stats2024/tdi_en" media_library="Media Library">Treatment demand</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b397ec69-b964-4d71-8fc1-4f098aa921eb" href="https://www.euda.europa.eu/data/stats2024/szr_en" media_library="Media Library">Seizures of drugs</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="67bc28ea-f659-4dd4-9df5-308bec0d9e0e" href="https://www.euda.europa.eu/data/stats2024/ppp_en" media_library="Media Library">Price, purity and potency</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>&nbsp;</h3>
+
+<ul>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6b2f67a7-bee1-485d-b339-b85e33813e3b" href="https://www.euda.europa.eu/data/stats2024/dup_en" media_library="Media Library">Drug use and prison</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7de3d2a8-7407-435d-9788-9a1fa033f8e5" href="https://www.euda.europa.eu/data/stats2024/dlo_en" media_library="Media Library">Drug law offences</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="bd62175f-35e2-4910-b659-ab5c23f0410b" href="https://www.euda.europa.eu/data/stats2024/hsr_en" media_library="Media Library">Health and social responses</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="df017ca9-f721-493f-98b0-cbdb402231e1" href="https://www.euda.europa.eu/data/stats2024/drug-checking_en" media_library="Media Library">Drug checking</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="78d62d92-13a7-41a7-bad6-7b1bb51586c8" href="https://www.euda.europa.eu/data/stats2024/hospital-emergencies_en" media_library="Media Library">Hospital emergencies data</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d23857a6-f468-4191-b97b-3c5c78dd8689" href="https://www.euda.europa.eu/data/stats2024/syringe-residues_en" media_library="Media Library">Syringe residues data</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a11dff1e-db47-42f5-a23f-56b99f8ca194" href="https://www.euda.europa.eu/publications/html/pods/waste-water-analysis_en" media_library="Media Library">Wastewater analysis</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d93c6071-7f3b-407d-8e60-4fe984809979" href="https://www.euda.europa.eu/data/data-catalogue_en" media_library="Media Library"><strong>Data catalogue</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/countries_en" data-bs-auto-close="outside">
+                            Countries
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/countries_en">Countries</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/countries.png.webp" width="500" height="280" alt="" title="banner for Countries section with a world map design" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>We work closely with the 27 EU Member States plus Norway and Türkiye, candidates and potential candidates to the EU, the European Neighbourhood Policy countries and other third countries.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/countries_en">Countries <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>Reporting countries</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/austria_en">Austria</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/belgium_en">Belgium</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/bulgaria_en">Bulgaria</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/croatia_en">Croatia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/cyprus_en">Cyprus</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/czechia_en">Czechia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/denmark_en">Denmark</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/estonia_en">Estonia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/finland_en">Finland</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/france_en">France</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>&nbsp;</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/germany_en">Germany</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/greece_en">Greece</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/hungary_en">Hungary</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/ireland_en">Ireland</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/italy_en">Italy</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/latvia_en">Latvia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/lithuania_en">Lithuania</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/luxembourg_en">Luxembourg</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/malta_en">Malta</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/netherlands_en">Netherlands</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>&nbsp;</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/norway_en">Norway</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/poland_en">Poland</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/portugal_en">Portugal</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/romania_en">Romania</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/slovakia_en">Slovakia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/slovenia_en">Slovenia</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/spain_en">Spain</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/sweden_en">Sweden</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox/t%C3%BCrkiye_en">Türkiye</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/countries">All countries <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/topics_en" data-bs-auto-close="outside">
+                            Topics
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="95f0b958-d53d-48d1-a4bf-913a8b3264f6" href="https://www.euda.europa.eu/topics_en" media_library="Media Library">Topics</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/topics.png.webp" width="500" height="280" alt="" title="banner for Topics section with an abstract design" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>Explore the content of our work by topic.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/topics_en">Topics<span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>Selected topics</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/content/alternatives-coercive-sanctions_en">Alternatives to coercive sanctions</a></li>
+<li><a href="https://www.euda.europa.eu/topics/cannabis_en">Cannabis</a></li>
+<li><a href="https://www.euda.europa.eu/topics/cannabis-policy_en">Cannabis policy</a></li>
+<li><a href="https://www.euda.europa.eu/topics/cocaine_en">Cocaine</a></li>
+<li><a href="https://www.euda.europa.eu/topics/darknet-and-drugs_en">Darknet markets</a></li>
+<li><a href="https://www.euda.europa.eu/topics/drug-checking_en">Drug checking</a></li>
+<li><a href="https://www.euda.europa.eu/topics/drug-consumption-facilities_en">Drug consumption facilities</a></li>
+<li><a href="https://www.euda.europa.eu/topics/drug-markets_en">Drug markets</a></li>
+<li><a href="https://www.euda.europa.eu/topics/drug-related-deaths_en">Drug-related deaths</a></li>
+<li><a href="https://www.euda.europa.eu/topics/drug-related-infectious-diseases_en">Drug-related infectious diseases</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>&nbsp;</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/topics/drugs-and-driving_en">Drugs and driving</a></li>
+<li><a href="https://www.euda.europa.eu/topics/european-web-survey-on-drugs_en">European Web Survey on Drugs</a></li>
+<li><a href="https://www.euda.europa.eu/topics/gender-and-drugs_en">Gender and drugs</a></li>
+<li><a href="https://www.euda.europa.eu/topics/harm-reduction_en">Harm reduction</a></li>
+<li><a href="https://www.euda.europa.eu/topics/heroin_en">Heroin</a></li>
+<li><a href="https://www.euda.europa.eu/topics/hospital-emergencies_en">Hospital emergencies</a></li>
+<li><a href="https://www.euda.europa.eu/topics/law_en">Law</a></li>
+<li><a href="https://www.euda.europa.eu/topics/naloxone_en">Naloxone</a></li>
+<li><a href="https://www.euda.europa.eu/topics/nps_en">New psychoactive substances (NPS)</a></li>
+<li><a href="https://www.euda.europa.eu/topics/prevalence-and-patterns-of-drug-use_en">Prevalence of drug use</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>&nbsp;</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/topics/prevention_en">Prevention</a></li>
+<li><a href="https://www.euda.europa.eu/topics/prison_en">Prison</a></li>
+<li><a href="https://www.euda.europa.eu/topics/production-of-drugs_en">Production of drugs</a></li>
+<li><a href="https://www.euda.europa.eu/topics/synthetic-cannabinoids_en">Synthetic cannabinoids</a></li>
+<li><a href="https://www.euda.europa.eu/topics/synthetic-cathinones_en">Synthetic cathinones</a></li>
+<li><a href="https://www.euda.europa.eu/topics/escape_en">Syringe analysis (ESCAPE)</a></li>
+<li><a href="https://www.euda.europa.eu/topics/treatment_en">Treatment of drug use problems</a></li>
+<li><a href="https://www.euda.europa.eu/topics/wastewater_en">Wastewater-based epidemiology</a></li>
+<li><a href="https://www.euda.europa.eu/topics/young-people_en">Young people</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/topics_en">Topics (A-Z) <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/best-practice_en" data-bs-auto-close="outside">
+                            Best practice
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">&nbsp;&nbsp;&nbsp;
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/best-practice_en">Best practice</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/best-practice.png.webp" width="500" height="280" alt="" title="banner for Best practice section with a graphic design" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>The content in this section is aimed at anyone involved in planning, implementing or making decisions about health and social responses.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/best-practice_en">Best practice <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>In this section</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/best-practice/evidence-summaries_en">Evidence database</a></li>
+<li><a href="https://www.euda.europa.eu/best-practice/european-prevention-curriculum-eupc_en">European Prevention Curriculum (EUPC)</a></li>
+<li><a href="https://www.euda.europa.eu/best-practice/evaluation-instruments-bank-eib_en" title="repository of evaluation tools such as questionnaires">Evaluations Instrument Bank (EIB)</a></li>
+<li><a href="https://www.euda.europa.eu/best-practice/guidelines_en" title="Frequently asked questions (FAQ)">Standards and guidelines</a></li>
+<li><a href="https://www.euda.europa.eu/best-practice/xchange_en">Xchange prevention registry</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>Quick links</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/publications/health-and-social-responses-a-european-guide_en" media_library="Media Library">Health and social responses to drug problems: a European guide</a></li>
+<li><a href="http://hntinfo.eu/" class="ext" data-extlink="" target="_blank" rel="noopener noreferrer" title="(opens in a new window)">Healthy Nightlife Toolkit (HNT)</a></li>
+<li><a href="https://www.euda.europa.eu/best-practice/european-prevention-curriculum-eupc/list-of-trainers_en">List of EUPC trainers</a></li>
+<li><a href="https://plato.emcdda.europa.eu/index.php/en/">PLATO training platform (login required)</a></li>
+<li><a href="https://www.euda.europa.eu/toolkit/prevention-toolkit_en">Prevention toolkit</a></li>
+<li><a href="http://eepurl.com/5rLmf" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)">Subscribe to the 'Best practice' newsletter</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/activities_en" data-bs-auto-close="outside">
+                            Activities
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/activities_en">Activities</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/activities.png.webp" width="500" height="280" alt="" title="banner for Activities section, picture with people walking through an interior space" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>We have developed a systemic approach that brings together the human networks, processes and scientific tools necessary for collecting, analysing and reporting on the many aspects of the European drugs phenomenon.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/activities_en">Activities<span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>Selected areas</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/publications/topic-overviews/eu-early-warning-system_en">Early Warning System on Drugs</a></li>
+<li><a href="https://www.euda.europa.eu/topics/key-indicators_en">Key indicators</a></li>
+<li><a href="https://www.euda.europa.eu/publications/topic-overviews/policy-evaluation_en">Drug policy evaluation</a></li>
+<li><a href="https://www.euda.europa.eu/activities/promoting-hcv-hepatitis-c-virus-testing-and-linkage-care-drugs-services_en">Hepatitis C elimination</a></li>
+<li><a href="https://www.euda.europa.eu/activities/european-web-survey-on-drugs_en">European Web Survey on Drugs</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b58a9822-4060-49b4-9f3c-db6ceefc4e75" href="https://www.euda.europa.eu/activities/iate-glossary_en" media_library="Media Library">Multilingual glossary</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>Partners and cooperation</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/partners/reitox_en">Reitox network</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners/cc/ipa8_en">EMCDDA-IPA 8</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="26d0352d-8505-45ff-87e9-0b9227e74e38" href="https://www.euda.europa.eu/activities/eu4md-ii" media_library="Media Library">EU4Monitoring Drugs II (EU4MD II)</a></li>
+<li><a href="https://www.euda.europa.eu/activities/copolad_en">COPOLAD</a></li>
+<li><a href="https://www.euda.europa.eu/activities/empact-keeping-eu-safe_en">EMPACT</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/publications_en" data-bs-auto-close="outside">
+                            Publications
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">&nbsp;&nbsp;&nbsp;
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/publications_en">Publications</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/publications.png.webp" width="500" height="280" alt="" title="banner for Publications section, close-up picture of a hand scrolling through a tablet" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>Explore our wide range of publications, videos and infographics on the drugs problem and how Europe is responding to it.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/publications_en">All publications <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>In this section</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/publications_en">Publications database</a></li>
+<li><a href="https://www.euda.europa.eu/document-library_en">EUDA Document library</a></li>
+<li><a href="https://www.euda.europa.eu/media-library_en">Media library</a></li>
+</ul>
+
+<h3>Featured publications</h3>
+
+<ul>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="15aadaca-5df7-49b2-8ca2-b25863e8138a" href="https://www.euda.europa.eu/publications/european-drug-report/2024_en" media_library="Media Library">European Drug Report</a></li>
+<li><a href="https://www.euda.europa.eu/publications/health-and-social-responses-a-european-guide_en" media_library="Media Library" title="Health and social responses to drug problems: a European guide">European Responses Guide</a></li>
+<li><a href="https://www.euda.europa.eu/publications/eu-drug-markets_en" media_library="Media Library">EU Drug Markets</a></li>
+<li><a href="https://www.euda.europa.eu/publications/drug-profiles_en">Drug profiles</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>Recently published</h3>
+
+<div>
+
+
+
+<div class="view view-publications view-id-publications view-display-id-recently_published_main_menu js-view-dom-id-83e5ed1a45917f36091110d48bae5df650d1750a40512c0ba97d5ff463ef7eb8">
+      
+            
+          <div class="view-content ">
+        <div>
+  
+  <ul>
+
+          <li><div><span><a title="Instrument for Pre-accession Assistance (IPA) data sheets" href="https://www.euda.europa.eu/publications/2024/ipa-data-sheets_en">IPA data sheets</a></span></div></li>
+          <li><div><span><a title="Drug-related infectious diseases (DRID) technical protocol – surveys on HIV and viral hepatitis in people who inject drugs" href="https://www.euda.europa.eu/publications/manuals-and-guidelines/drug-related-infectious-diseases-drid-technical-protocol_en">Drug-related infectious diseases (DRID…</a></span></div></li>
+          <li><div><span><a title="European Drug Emergencies Network (Euro-DEN Plus): data and analysis" href="https://www.euda.europa.eu/publications/data-factsheet/european-drug-emergencies-network-euro-den-plus-data-and-analysis_en">European Drug Emergencies Network (Euro…</a></span></div></li>
+          <li><div><span><a title="Reitox national focal points — 2024 highlights" href="https://www.euda.europa.eu/publications/ad-hoc/2024/reitox-highlights_en">Reitox national focal points — 2024…</a></span></div></li>
+          <li><div><span><a title="The Reitox network: frequently asked questions" href="https://www.euda.europa.eu/publications/brochures/reitox-faqs_en">The Reitox network: frequently asked…</a></span></div></li>
+          <li><div><span><a title="EUDA presentation flyer —  Acting today, anticipating tomorrow  " href="https://www.euda.europa.eu/publications/brochures/euda-presentation-flyer-acting-today-anticipating-tomorrow_en">EUDA presentation flyer —  Acting today…</a></span></div></li>
+          <li><div><span><a title="The impact of economic recessions on the use of illicit drugs" href="https://www.euda.europa.eu/publications/technical-reports/2024/impact-economic-recession-illicit-drugs_en">Findings from a scoping literature…</a></span></div></li>
+          <li><div><span><a title="Penalties for drug law offences in Europe at a glance" href="https://www.euda.europa.eu/publications/topic-overviews/penalites-for-drug-law-offences-in-europe-at-a-glance_en">Penalties at a glance</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+    
+                          
+      
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/events_en" data-bs-auto-close="outside">
+                            Events
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/events" media_library="Media Library">Events</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/events.png.webp" width="500" height="280" alt="" title="banner for Events section, picture of a backlit person speaking in front of the public" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>Explore our events section.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/events">Events <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/events">Recent events</a></h3>
+
+
+
+
+
+
+
+<div class="view view-recent-news-menu view-id-recent_news_menu view-display-id-block_recent_events_menu js-view-dom-id-dd61fb7e21e35efc5b97c5ad9be174541b73a9dfd88f30c44fc5f61d17b2293c">
+      
+            
+          <div class="view-content ">
+        <div class="item-list">
+  
+  <ul>
+
+          <li><a href="https://www.euda.europa.eu/event/2025/01/meeting-euda-scientific-committee_en" hreflang="en">Meeting of the EUDA Scientific Committee</a></li>
+          <li><a href="https://www.euda.europa.eu/event/2025/01/score-group-meeting_en" hreflang="en">SCORE group meeting</a></li>
+          <li><a href="https://www.euda.europa.eu/event/2025/05/13th-international-club-health-conference_en" hreflang="en">13th International Club Health Conference</a></li>
+          <li><a href="https://www.euda.europa.eu/event/2024/12/international-conference-clean-victory-rethinking-olympic-year_en" hreflang="en">International Conference 'Clean Victory: Rethinking the Olympic Year'</a></li>
+          <li><a href="https://www.euda.europa.eu/event/2024/12/14th-illicit-networks-workshop_en" hreflang="en">14th Illicit Networks Workshop</a></li>
+          <li><a href="https://www.euda.europa.eu/event/2024/12/6th-european-harm-reduction-conference-ehrc2024_en" hreflang="en">6th European Harm Reduction Conference (EHRC2024)</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+    
+                          
+      
+  </div>
+
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/events_en">More events <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/news_en" data-bs-auto-close="outside">
+                            News
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/news" media_library="Media Library">News</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/news.png.webp" width="500" height="280" alt="" title="banner for News section, picture of some newspapers on top of a laptop" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>Explore our news section.</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/news">News <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3><a href="https://www.euda.europa.eu/news">Recent news</a></h3>
+
+
+
+
+
+<div class="view view-recent-news-menu view-id-recent_news_menu view-display-id-default js-view-dom-id-ac2ebc76b5470fb5182c63a9a9b12f96bfebad79f989aa2d9f2d49a1d881d07d">
+      
+            
+          <div class="view-content ">
+        <div class="item-list">
+  
+  <ul>
+
+          <li><a href="https://www.euda.europa.eu/news/2024/cooperation-western-balkans-first-national-drug-datasheets-unveiled_en" hreflang="en">Cooperation with the Western Balkans: first national drug datasheets unveiled</a></li>
+          <li><a href="https://www.euda.europa.eu/news/2024/2/euda-management-board-elects-austrian-and-luxembourgish-members-leadership-roles_en" hreflang="en">EUDA Management Board elects Austrian and Luxembourgish members to leadership roles</a></li>
+          <li><a href="https://www.euda.europa.eu/news/2024/new-network-forensic-and-toxicology-laboratories-strengthen-eu-preparedness-drugs_en" hreflang="en">A new network of forensic and toxicology laboratories to strengthen EU preparedness on drugs</a></li>
+          <li><a href="https://www.euda.europa.eu/news/2024/cooperation-chile-enhanced-through-new-working-arrangement-senda_en" hreflang="en">Cooperation with Chile enhanced through new Working Arrangement with SENDA</a></li>
+          <li><a href="https://www.euda.europa.eu/news/2024/eu-drugs-agency-signs-working-arrangement-montenegro_en" hreflang="en">EU Drugs Agency signs Working Arrangement with Montenegro </a></li>
+          <li><a href="https://www.euda.europa.eu/news/2024/euda-gets-set-lisbon-addictions-2024_en" hreflang="en">EUDA gets set for Lisbon Addictions 2024</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+    
+                          
+      
+  </div>
+
+
+<p>&nbsp;</p>
+
+<p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/news_en">More news <span class="fontawesome-icon-inline"><i class="fas fa-arrow-right"></i>&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>Quick links</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/news_en">Search news </a></li>
+<li><a href="http://eepurl.com/diT6L1" media_library="Media Library" class="ext" data-extlink="" target="_blank" rel="noopener noreferrer" title="(opens in a new window)">Subscribe newsletter for recent news</a></li>
+<li><a href="http://eepurl.com/ceqCET" media_library="Media Library" class="ext" data-extlink="" target="_blank" rel="noopener noreferrer" title="(opens in a new window)">Subscribe to news releases</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                                                                                
+                <li class="nav-item  dropdown">
+                                            <a class="nav-link dropdown-toggle" type="button" id="sub-menu--0" data-bs-toggle="dropdown" aria-expanded="false" href="https://www.euda.europa.eu/about_en" data-bs-auto-close="outside">
+                            About
+                            <span class="visually-hidden">Open related submenu</span>
+                        </a>
+                                                                
+    <button class="dropdown-toggle dropdown-toggle--back fa fa-arrow-left" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" aria-hidden="true">
+
+  </button>
+      <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown-0 menu-type-default dropdown-menu">
+            <div class="sub-menu-wrapper">
+        <div class="sub-menu-container container">
+          <div class="row mx-lg-0">
+                          <div class="col-xl-4 flex-grow-1 sub-menu-section">
+                                                  
+                                                
+                    
+        <div class="clearfix text-formatted field field--name-field-menu-introduction field--type-text-long field--label-hidden field__item"><div class="bs_grid">
+<div class="row gx-6 gy-4" data-row-lg="none" data-row-md="equal_equal_equal" data-row-none="none" data-row-sm="none" data-row-xl="none" data-row-xxl="none">&nbsp;&nbsp;&nbsp;
+<div class="col-md">
+<h3 class="mb-0"><a href="https://www.euda.europa.eu/about_en">About the EUDA</a></h3>
+
+
+<div class="media media--type-image media--view-mode-jumbotron">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/about_1.png.webp" width="500" height="280" alt="" loading="lazy" class="img-fluid image-style-scale-crop-500x281-2x-used-in-jumbotron-">
+
+
+</div>
+            
+  </div>
+
+
+<p>We are your source of drug-related expertise in Europe. We prepare and share independent, scientifically validated knowledge, alerts and recommendations.&nbsp;</p><p>
+</p><p><a class="btn btn-primary btn-lg" href="https://www.euda.europa.eu/about_en">About the EUDA <span class="fontawesome-icon-inline">&nbsp;</span></a></p>
+</div>
+
+<div class="col-md">
+<h3>In this section</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/mission_en">Mission</a></li>
+<li><a href="https://www.euda.europa.eu/about/organisation_en">Organisation</a></li>
+<li><a href="https://www.euda.europa.eu/activities_en">Activities</a></li>
+<li><a href="https://www.euda.europa.eu/about/partners_en">Partners</a></li>
+<li><a href="https://www.euda.europa.eu/about/jobs" media_library="Media Library">Job vacancies</a></li>
+<li><a href="https://www.euda.europa.eu/about/procurement">Procurement</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e201561e-b5a3-40f3-b9aa-572f9f11d9c2" href="https://www.euda.europa.eu/about/contact_en" media_library="Media Library">Contact us</a></li>
+</ul>
+</div>
+
+<div class="col-md">
+<h3>Quick links</h3>
+
+<ul>
+<li><a href="https://www.euda.europa.eu/about/director_en">EUDA Director</a></li>
+<li><a href="https://www.euda.europa.eu/about/mb_en">Management Board</a></li>
+<li><a href="https://www.euda.europa.eu/about/sc_en">Scientific Committee</a></li>
+<li><a href="https://www.euda.europa.eu/about/data-protection_en">Data protection</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="bb976bc3-50be-4230-bd35-e9ea77494e69" href="https://www.euda.europa.eu/about/public-access-to-documents_en" media_library="Media Library">Public access to documents</a></li>
+<li><a href="https://www.euda.europa.eu/about/sustainability-at-the-emcdda_en">Sustainability at the EUDA</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+            
+                              </div>
+                                                                      </div>
+        </div>
+      </div>
+          </div>
+  
+
+
+                                                        </li>
+                        </ul>
+    
+</div>
+  </div>
+
+  </div>
+
+          </div>
+  </div>
+
+<main class="mb-2 mb-lg-5">
+  <a id="main-content" tabindex="-1"></a>
+  
+        <div class="region region-breadcrumb">
+      <div id="block-system-breadcrumb-block--2" class="block block-system block-system-breadcrumb-block">
+  
+    
+      
+
+  <nav aria-label="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                          <a href="https://www.euda.europa.eu/index_en">Home</a>
+                          <i class="fas fa-arrow-right-long ms-2"></i>
+                </li>
+              <li class="breadcrumb-item">
+                          <a href="https://www.euda.europa.eu/data_en">Data</a>
+                          <i class="fas fa-arrow-right-long ms-2"></i>
+                </li>
+              <li class="breadcrumb-item">
+                          <a href="https://www.euda.europa.eu/data/stats2024_en">Statistical Bulletin 2024</a>
+                          <i class="fas fa-arrow-right-long ms-2"></i>
+                </li>
+              <li class="breadcrumb-item">
+                          Drug law offences
+                        </li>
+          </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+  
+  
+        <div class="container">
+    <div class="row">
+  
+      <div class="col-12 col-xl-3 mb-3 mb-xl-0 sidebar-wrapper">
+                            <div class="sidebar sidebar-sticky">
+                                  <div class="sidebar-shadow mb-1">
+              <div class="d-none d-xl-block">
+                        
+                  <ul class="list-unstyled mb-0">
+                      <li>
+              <a href="https://www.euda.europa.eu/data/stats2024_en" class="btn btn-lg btn-outline-primary btn-back">
+                <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                Statistical Bulletin 2024 main page
+              </a>
+            </li>
+                  </ul>
+          
+              </div>
+            </div>
+          
+                            </div>
+
+                          </div>
+  
+      <div id="main" class="col-12 col-xl-9 flex-grow-1">
+                            <div class="region region-content">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+<div id="block-system-main-block" class="block block-system block-system-main-block">
+  
+    
+      
+
+
+
+  
+
+
+
+
+
+
+ 
+
+<div class="node node--type-page node--view-mode-full statistical-bulletin-2024-—-drug-law-offences">
+  <div id="content" class="content " data-pdf="pdf-content-default" data-pdf-col="12">
+          <div class="mb-1">
+        <h1 class="page-header border-bottom border-1 border-light-gray mb-3 pb-2"><span class="field field--name-title field--type-string field--label-hidden">Statistical Bulletin 2024 — drug law offences</span>
+</h1>
+      </div>
+    
+    
+    
+
+          <div class="mb-2 mb-lg-5">
+        
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <div class="definition">
+
+<div class="media media--type-image media--view-mode-default">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/drug-law-offences.png" width="6912" height="1440" alt="" title="banner for Statistical Bulletin 2024 - drug law offences" loading="lazy">
+
+</div>
+            
+  </div>
+
+
+<p class="lead">Reports of offences against national drug legislation (use, possession, trafficking, etc.) reflect differences in law but also the different ways in which the law is enforced and applied, and the priorities and resources allocated to specific problems by criminal justice agencies. In addition, information systems on drug law offences/offenders vary considerably between countries, especially as regards recording procedures, definitions and statistical units (see below). Methods and definitions for the data on this page can be found on the <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="60997105-14e2-41d6-979a-5cba7dd68be0" href="https://www.euda.europa.eu/data/stats2024/methods/dlo_en" media_library="Media Library">Drug law offences methods and definitions page</a>.</p>
+</div>
+
+<div class="bs_grid">
+<div class="container ">
+<div class="row " data-row-lg="equal_equal" data-row-md="none" data-row-none="none" data-row-sm="none" data-row-xl="equal_equal" data-row-xxl="equal_equal">
+<div class="col-lg col-xl col-xxl">
+<div class="interface" id="tableViewManualMenu">
+<h3 class="instruction">Data tables</h3>
+
+<p class="instruction">Use the menu below to find data sets of interest.</p>
+
+<ul class="nav nav-pills tableViewMenu predefinedTables" id="DLOList">
+<li class="node group1"><a data-target="#DLOListGroup1List0" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Number of DLOs</span></a>
+
+<ul class="collapse show" id="DLOListGroup1List0" style="">
+<li class="node group2"><a data-target="#DLOListGroup1List0Group2List0" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List0" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Offences</span></a>
+
+<ul class="collapse show" id="DLOListGroup1List0Group2List0" style="">
+<li class="leaf group3 active" data-tableid="DLO-01-1-0">Total</li>
+</ul>
+</li>
+<li class="node group2"><a data-target="#DLOListGroup1List0Group2List1" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List1" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Offenders</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List1" style="">
+<li class="leaf group3 active" data-tableid="DLO-01-2-0">Total</li>
+</ul>
+</li>
+<li class="node group2"><a data-target="#DLOListGroup1List0Group2List2" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Offences/Offenders</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2" style="">
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List0" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List0" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Use</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List0" style="">
+<li class="leaf group4 active" data-tableid="DLO-02-1-0">Total</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List1" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List1" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Supply</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List1" style="">
+<li class="leaf group4 active" data-tableid="DLO-02-2-0">Total</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List2" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List2" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cultivation/Production</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List2" style="">
+<li class="leaf group4 active" data-tableid="DLO-02-3-0">Total Drugs</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List3" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List3" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cannabis</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List3" style="">
+<li class="leaf group4 active" data-tableid="DLO-03-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-03-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-03-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-03-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List4" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List4" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cannabis Resin</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List4" style="">
+<li class="leaf group4" data-tableid="DLO-03-4-1">Total</li>
+<li class="leaf group4" data-tableid="DLO-03-4-2">Use</li>
+<li class="leaf group4" data-tableid="DLO-03-4-3">Supply</li>
+<li class="leaf group4" data-tableid="DLO-03-4-4">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List5" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List5" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cannabis Herbal</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List5" style="">
+<li class="leaf group4" data-tableid="DLO-03-5-1">Total</li>
+<li class="leaf group4" data-tableid="DLO-03-5-2">Use</li>
+<li class="leaf group4" data-tableid="DLO-03-5-3">Supply</li>
+<li class="leaf group4" data-tableid="DLO-03-5-4">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List6" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List6" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cannabis Plants</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List6" style="">
+<li class="leaf group4" data-tableid="DLO-03-6-1">Total</li>
+<li class="leaf group4" data-tableid="DLO-03-6-2">Use</li>
+<li class="leaf group4" data-tableid="DLO-03-6-3">Supply</li>
+<li class="leaf group4" data-tableid="DLO-03-6-4">Cultivation</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List7" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List7" class="" aria-expanded="true"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cannabis Oil</span></a>
+<ul class="collapse show" id="DLOListGroup1List0Group2List2Group3List7" style="">
+<li class="leaf group4" data-tableid="DLO-03-7-1">Total</li>
+<li class="leaf group4" data-tableid="DLO-03-7-2">Use</li>
+<li class="leaf group4" data-tableid="DLO-03-7-3">Supply</li>
+<li class="leaf group4" data-tableid="DLO-03-7-4">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List8" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List8"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Heroin</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List8">
+<li class="leaf group4" data-tableid="DLO-04-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-04-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-04-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-04-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List9" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List9"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Cocaine</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List9">
+<li class="leaf group4" data-tableid="DLO-05-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-05-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-05-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-05-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List10" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List10"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Crack</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List10">
+<li class="leaf group4" data-tableid="DLO-05-1-1">Total</li>
+<li class="leaf group4" data-tableid="DLO-05-2-1">Use</li>
+<li class="leaf group4" data-tableid="DLO-05-3-1">Supply</li>
+<li class="leaf group4" data-tableid="DLO-05-4-1">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List11" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List11"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Amphetamine</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List11">
+<li class="leaf group4" data-tableid="DLO-06-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-06-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-06-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-06-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List12" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List12"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> Methamphetamine</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List12">
+<li class="leaf group4" data-tableid="DLO-07-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-07-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-07-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-07-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List13" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List13"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> MDMA</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List13">
+<li class="leaf group4" data-tableid="DLO-08-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-08-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-08-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-08-4-0">Production</li>
+</ul>
+</li>
+<li class="node group3"><a data-target="#DLOListGroup1List0Group2List2Group3List14" data-toggle="collapse" data-bs-toggle="collapse" href="https://www.euda.europa.eu/data/stats2024/dlo_en#DLOListGroup1List0Group2List2Group3List14" class="collapsed" aria-expanded="false"><span class="closed sign">+</span><span class="open hidden sign">-</span><span> LSD</span></a>
+<ul class="collapse" id="DLOListGroup1List0Group2List2Group3List14" style="">
+<li class="leaf group4" data-tableid="DLO-09-1-0">Total</li>
+<li class="leaf group4" data-tableid="DLO-09-2-0">Use</li>
+<li class="leaf group4" data-tableid="DLO-09-3-0">Supply</li>
+<li class="leaf group4" data-tableid="DLO-09-4-0">Production</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-lg col-xl col-xxl">
+<div class="interface">
+<h3 class="instruction">Graphics</h3>
+
+<p class="instruction">Click on a graphic from the thumbnails below (please note, these graphics will be updated with the most recent versions shortly).</p>
+
+<div class="row thumbnails">
+<div class="col-sm-12">
+<div class="thumbnail">
+
+
+
+<div class="view view-media-library-node view-id-media_library_node view-display-id-sb2023 js-view-dom-id-6beab58df8d792fa11a24775676a21dba8ad0e57e0a761a33e32b951cd28e451" data-once="ajax-pager">
+      
+            
+          <div class="view-content ">
+        <div id="views-bootstrap-media-library-node-sb2023--2" class="grid views-view-grid">
+  <div class="row">
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <a href="https://www.euda.europa.eu/media-library/edr/drug-law-offences-indexed-trends_en" class="text-decoration-none link-list">
+  <article class="article-list card card--">
+    <div class="card-body">
+      <div class="card-title">Infographic. Drug law offences — indexed trends (2011 = 100)</div>
+    <div class="card-img card-img-top">
+        
+<div class="media media--type-image media--view-mode-full">
+  
+      
+
+  <img srcset="/sites/default/files/styles/body_image_480/public/images/2023-08/edr-2023-drug-law-offences-indexed-trends.png.webp?itok=6JBmyPvY
+    1x, /sites/default/files/styles/body_image_480_2x/public/images/2023-08/edr-2023-drug-law-offences-indexed-trends.png.webp?itok=dxIqqxxn
+    2x" src="./Nombre_Infractions_Cannabis_files/edr-2023-drug-law-offences-indexed-trends.png.webp" alt="Two separate graphics showing indexed trends for drug law offences in Europe between 2011 and 2021, for possession and supply. Significant increases over time for MDMA for both possession and supply offences.">
+
+  </div>
+
+    </div>
+    </div>
+  </article>
+</a>
+
+      </div>
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <a href="https://www.euda.europa.eu/media-library/edr/drug-law-offences-europe_en" class="text-decoration-none link-list">
+  <article class="article-list card card--">
+    <div class="card-body">
+      <div class="card-title">Infographic. Drug law offences — number of offences, supply and use/possession</div>
+    <div class="card-img card-img-top">
+        
+<div class="media media--type-image media--view-mode-full">
+  
+      
+
+  <img srcset="/sites/default/files/styles/body_image_480/public/images/2023-08/drug-law-offences-number-edr-thumnbnail.png.webp?itok=7YHoBbwU
+    1x, /sites/default/files/styles/body_image_480_2x/public/images/2023-08/drug-law-offences-number-edr-thumnbnail.png.webp?itok=QtehqWp7
+    2x" src="./Nombre_Infractions_Cannabis_files/drug-law-offences-number-edr-thumnbnail.png.webp" alt="Bar chart showing number of drug law offences for supply and possession in Europe. Most possession offences are for cannabis, followed by amphetamine, cocaine and heroin. Most supply offences are for cannabis and cocaine ">
+
+  </div>
+
+    </div>
+    </div>
+  </article>
+</a>
+
+      </div>
+      </div>
+</div>
+
+      </div>
+    
+          
+                          
+      
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+
+      </div>
+    
+    
+    
+
+      </div>
+</div>
+
+
+  <div aria-labelledby="statsGraphicModal" class="modal fade" id="statsGraphicModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title" id="statsGraphicLabel">&nbsp;</h4>
+          <button aria-label="Close" class="btn-close" data-dismiss="modal" type="button" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body"></div>
+        <div class="modal-footer">
+          <button class="btn btn-default" data-dismiss="modal" type="button" data-bs-dismiss="modal">Close
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div aria-labelledby="tableviewmodal" class="modal fade table-view-modal" id="tableViewModal" tabindex="-1" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen modal-dialog-centered modal-dialog-scrollable p-3 p-lg-4">
+      <div class="modal-content bg-white" id="tableView">
+        <div class="modal-header">
+          <div class="modal-title" id="tableLabel">
+            
+          </div>
+          <button aria-label="Close" class="close" data-dismiss="modal" type="button" data-bs-dismiss="modal"><span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body results">
+          
+        <div style="display:none" class="dataHolder"><table-headers><line><column>Country</column><column>2022</column><column>2021</column><column>2020</column><column>2019</column><column>2018</column><column>2017</column><column>2016</column><column>2015</column><column>2014</column><column>2013</column><column>2012</column><column>2011</column><column>2010</column><column>2009</column><column>2008</column><column>2007</column></line></table-headers><table-body><line><column>Austria</column><column>26693</column><column>26872</column><column>29553</column><column>31910</column><column>32753</column><column>37751</column><column>31349</column><column>27542</column><column>27977</column><column>22798</column><column>17461</column><column>17836</column><column>17066</column><column>17513</column><column>15063</column><column>19063</column></line><line><column>Belgium</column><column>36533</column><column>36882</column><column>40315</column><column>39181</column><column>37853</column><column>37500</column><column>34407</column><column>36092</column><column>37875</column><column>30113</column><column>26422</column><column>28546</column><column>25711</column><column>27344</column><column>26348</column><column>25044</column></line><line><column>Bulgaria</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column>5922</column><column>6510</column><column>5201</column><column>3428</column><column>3482</column><column>2640</column><column>1895</column><column>2144</column></line><line><column>Croatia</column><column>6175</column><column>6391</column><column>6552</column><column>7086</column><column>8143</column><column>7964</column><column>7212</column><column>5888</column><column>6849</column><column>5544</column><column>5318</column><column>5727</column><column>5117</column><column>4520</column><column>4154</column><column>4820</column></line><line><column>Cyprus</column><column>729</column><column>648</column><column>660</column><column>814</column><column>971</column><column>807</column><column>749</column><column>784</column><column>887</column><column>845</column><column>855</column><column>746</column><column>649</column><column>565</column><column>575</column><column>676</column></line><line><column>Czechia</column><column>7172</column><column>6110</column><column>5025</column><column>6392</column><column>7121</column><column>6227</column><column>5995</column><column>5258</column><column>1580</column><column>1552</column><column>1242</column><column>1063</column><column>896</column><column>786</column><column>746</column><column>569</column></line><line><column>Denmark</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Estonia</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Finland</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>France</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column>137741</column><column>140179</column><column>152845</column><column>110614</column></line><line><column>Germany</column><column>214242</column><column>222108</column><column>227958</column><column>225120</column><column>218660</column><column>204904</column><column>183015</column><column>172724</column><column>165904</column><column>145013</column><column>134739</column><column>131951</column><column>128868</column><column>130963</column><column>132519</column><column>141391</column></line><line><column>Greece</column><column>9365</column><column>8964</column><column>9504</column><column>10886</column><column>10425</column><column>12887</column><column>11015</column><column>11669</column><column>12982</column><column>10903</column><column>9787</column><column>8787</column><column>8022</column><column>10075</column><column>9093</column><column>7504</column></line><line><column>Hungary</column><column>4024</column><column>4090</column><column>3777</column><column>3672</column><column>4810</column><column>3951</column><column>3392</column><column>3301</column><column>3758</column><column>3775</column><column>3903</column><column>4719</column><column>4472</column><column>3592</column><column></column><column></column></line><line><column>Ireland</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Italy</column><column>35901</column><column>36046</column><column>38371</column><column>46358</column><column>50545</column><column>50873</column><column>42609</column><column>39763</column><column>41151</column><column>41418</column><column>45092</column><column>45385</column><column>45743</column><column>42862</column><column>46890</column><column>46119</column></line><line><column>Latvia</column><column></column><column></column><column></column><column></column><column></column><column></column><column>492</column><column>517</column><column>377</column><column>371</column><column>385</column><column>415</column><column>346</column><column>348</column><column>161</column><column>216</column></line><line><column>Lithuania</column><column>1568</column><column>1507</column><column>722</column><column>1173</column><column>476</column><column>378</column><column>241</column><column>488</column><column>521</column><column>399</column><column>397</column><column>364</column><column>357</column><column>337</column><column>237</column><column>185</column></line><line><column>Luxembourg</column><column>998</column><column>1790</column><column>1782</column><column>2001</column><column>1435</column><column>1311</column><column>1064</column><column>1180</column><column>1104</column><column>908</column><column>901</column><column>988</column><column>1215</column><column>842</column><column>836</column><column></column></line><line><column>Malta</column><column>37</column><column>148</column><column>153</column><column>278</column><column>356</column><column>352</column><column>411</column><column>259</column><column>285</column><column>193</column><column>143</column><column>85</column><column>94</column><column>156</column><column>176</column><column>185</column></line><line><column>Netherlands</column><column>5160</column><column>6810</column><column>6905</column><column>7930</column><column>7631</column><column>8632</column><column>11658</column><column>11031</column><column>11545</column><column></column><column></column><column>9236</column><column>7365</column><column>8962</column><column>9052</column><column>9196</column></line><line><column>Norway</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Poland</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column>57524</column><column>50915</column><column>51088</column><column>45005</column><column>35386</column><column>34662</column></line><line><column>Portugal</column><column>13132</column><column>6998</column><column>6800</column><column>10586</column><column>11506</column><column>15271</column><column>15387</column><column>14315</column><column>11836</column><column>9839</column><column>9698</column><column>8181</column><column>7953</column><column>8597</column><column>6607</column><column>6247</column></line><line><column>Romania</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Slovakia</column><column>555</column><column>690</column><column>613</column><column>634</column><column>496</column><column>392</column><column></column><column>461</column><column>604</column><column>565</column><column>692</column><column>624</column><column>689</column><column>551</column><column>446</column><column>384</column></line><line><column>Slovenia</column><column>3259</column><column>3281</column><column>3889</column><column>4537</column><column></column><column>4375</column><column>3101</column><column></column><column>3419</column><column>501</column><column>438</column><column>516</column><column>490</column><column>2898</column><column>2952</column><column>2622</column></line><line><column>Spain</column><column>340939</column><column>299129</column><column>276742</column><column>336710</column><column>316603</column><column>314345</column><column>335497</column><column>331587</column><column>360327</column><column>365199</column><column>329991</column><column>349743</column><column>295241</column><column>323416</column><column>259564</column><column>204665</column></line><line><column>Sweden</column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column><column></column></line><line><column>Türkiye</column><column>78949</column><column>66967</column><column>59716</column><column>72695</column><column>67984</column><column>53793</column><column>39948</column><column>35892</column><column>48610</column><column>66072</column><column>68274</column><column>58727</column><column>74168</column><column>42860</column><column>12690</column><column>9477</column></line><line><column>United Kingdom</column><column></column><column></column><column></column><column></column><column></column><column>44620</column><column>51402</column><column>56352</column><column>64527</column><column>72002</column><column>75117</column><column>80023</column><column>75284</column><column>66598</column><column>63103</column><column>55563</column></line></table-body><footnote><line><!--[CDATA[(1) Greece: Since 2018 figure is the sum DLOs related to cannabis products,]]--></line><line><!--[CDATA[(2) Portugal: Information on offences established by Decree-Law n.er 15/93 of 22 January on the criminal investigation of drug trafficking for 2017-2021 does not reflect all the results obtained at national level since middle 2017, as it does not integrate the data from one police force, so some caution is needed in reading the data.]]--></line><line><!--[CDATA[(3) Lithuania: In 2019 LT-3.]]--></line></footnote><table><caption>Drug law offences &gt; Number of DLOs &gt; Offences/Offenders &gt; Cannabis &gt; Total</caption></table></div><h3 class="caption">Drug law offences &gt; Number of DLOs &gt; Offences/Offenders &gt; Cannabis &gt; Total</h3><p class="tableLinkText">Permanent link to this table: <a href="https://www.euda.europa.eu/data/stats2024/dlo_en#displayTable:DLO-03-1-0">https://www.euda.europa.eu/data/stats2024/dlo_en#displayTable:DLO-03-1-0</a></p><p class="excel"><a href="https://www.euda.europa.eu/modules/sbdata/SBDataService2024.cfc?method=fetchxlsx&amp;tableid=DLO-03-1-0">Download as Excel file (.xlsx)</a></p><table class="table table-bordered predefinedTable" id="DLO-03-1-0"><tfoot><tr><td colspan="17"><p>(1) Greece: Since 2018 figure is the sum DLOs related to cannabis products,</p><p>(2) Portugal: Information on offences established by Decree-Law n.er 15/93 of 22 January on the criminal investigation of drug trafficking for 2017-2021 does not reflect all the results obtained at national level since middle 2017, as it does not integrate the data from one police force, so some caution is needed in reading the data.</p><p>(3) Lithuania: In 2019 LT-3.</p></td></tr></tfoot><thead><tr><th>Country</th><th>2022</th><th>2021</th><th>2020</th><th>2019</th><th>2018</th><th>2017</th><th>2016</th><th>2015</th><th>2014</th><th>2013</th><th>2012</th><th>2011</th><th>2010</th><th>2009</th><th>2008</th><th>2007</th></tr></thead><tbody><tr><td>Austria</td><td>26693</td><td>26872</td><td>29553</td><td>31910</td><td>32753</td><td>37751</td><td>31349</td><td>27542</td><td>27977</td><td>22798</td><td>17461</td><td>17836</td><td>17066</td><td>17513</td><td>15063</td><td>19063</td></tr><tr><td>Belgium</td><td>36533</td><td>36882</td><td>40315</td><td>39181</td><td>37853</td><td>37500</td><td>34407</td><td>36092</td><td>37875</td><td>30113</td><td>26422</td><td>28546</td><td>25711</td><td>27344</td><td>26348</td><td>25044</td></tr><tr><td>Bulgaria</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td>5922</td><td>6510</td><td>5201</td><td>3428</td><td>3482</td><td>2640</td><td>1895</td><td>2144</td></tr><tr><td>Croatia</td><td>6175</td><td>6391</td><td>6552</td><td>7086</td><td>8143</td><td>7964</td><td>7212</td><td>5888</td><td>6849</td><td>5544</td><td>5318</td><td>5727</td><td>5117</td><td>4520</td><td>4154</td><td>4820</td></tr><tr><td>Cyprus</td><td>729</td><td>648</td><td>660</td><td>814</td><td>971</td><td>807</td><td>749</td><td>784</td><td>887</td><td>845</td><td>855</td><td>746</td><td>649</td><td>565</td><td>575</td><td>676</td></tr><tr><td>Czechia</td><td>7172</td><td>6110</td><td>5025</td><td>6392</td><td>7121</td><td>6227</td><td>5995</td><td>5258</td><td>1580</td><td>1552</td><td>1242</td><td>1063</td><td>896</td><td>786</td><td>746</td><td>569</td></tr><tr><td>Denmark</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Estonia</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Finland</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>France</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td>137741</td><td>140179</td><td>152845</td><td>110614</td></tr><tr><td>Germany</td><td>214242</td><td>222108</td><td>227958</td><td>225120</td><td>218660</td><td>204904</td><td>183015</td><td>172724</td><td>165904</td><td>145013</td><td>134739</td><td>131951</td><td>128868</td><td>130963</td><td>132519</td><td>141391</td></tr><tr><td>Greece</td><td>9365</td><td>8964</td><td>9504</td><td>10886</td><td>10425</td><td>12887</td><td>11015</td><td>11669</td><td>12982</td><td>10903</td><td>9787</td><td>8787</td><td>8022</td><td>10075</td><td>9093</td><td>7504</td></tr><tr><td>Hungary</td><td>4024</td><td>4090</td><td>3777</td><td>3672</td><td>4810</td><td>3951</td><td>3392</td><td>3301</td><td>3758</td><td>3775</td><td>3903</td><td>4719</td><td>4472</td><td>3592</td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Ireland</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Italy</td><td>35901</td><td>36046</td><td>38371</td><td>46358</td><td>50545</td><td>50873</td><td>42609</td><td>39763</td><td>41151</td><td>41418</td><td>45092</td><td>45385</td><td>45743</td><td>42862</td><td>46890</td><td>46119</td></tr><tr><td>Latvia</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td>492</td><td>517</td><td>377</td><td>371</td><td>385</td><td>415</td><td>346</td><td>348</td><td>161</td><td>216</td></tr><tr><td>Lithuania</td><td>1568</td><td>1507</td><td>722</td><td>1173</td><td>476</td><td>378</td><td>241</td><td>488</td><td>521</td><td>399</td><td>397</td><td>364</td><td>357</td><td>337</td><td>237</td><td>185</td></tr><tr><td>Luxembourg</td><td>998</td><td>1790</td><td>1782</td><td>2001</td><td>1435</td><td>1311</td><td>1064</td><td>1180</td><td>1104</td><td>908</td><td>901</td><td>988</td><td>1215</td><td>842</td><td>836</td><td class="notAvailable"></td></tr><tr><td>Malta</td><td>37</td><td>148</td><td>153</td><td>278</td><td>356</td><td>352</td><td>411</td><td>259</td><td>285</td><td>193</td><td>143</td><td>85</td><td>94</td><td>156</td><td>176</td><td>185</td></tr><tr><td>Netherlands</td><td>5160</td><td>6810</td><td>6905</td><td>7930</td><td>7631</td><td>8632</td><td>11658</td><td>11031</td><td>11545</td><td class="notAvailable"></td><td class="notAvailable"></td><td>9236</td><td>7365</td><td>8962</td><td>9052</td><td>9196</td></tr><tr><td>Norway</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Poland</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td>57524</td><td>50915</td><td>51088</td><td>45005</td><td>35386</td><td>34662</td></tr><tr><td>Portugal</td><td>13132</td><td>6998</td><td>6800</td><td>10586</td><td>11506</td><td>15271</td><td>15387</td><td>14315</td><td>11836</td><td>9839</td><td>9698</td><td>8181</td><td>7953</td><td>8597</td><td>6607</td><td>6247</td></tr><tr><td>Romania</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Slovakia</td><td>555</td><td>690</td><td>613</td><td>634</td><td>496</td><td>392</td><td class="notAvailable"></td><td>461</td><td>604</td><td>565</td><td>692</td><td>624</td><td>689</td><td>551</td><td>446</td><td>384</td></tr><tr><td>Slovenia</td><td>3259</td><td>3281</td><td>3889</td><td>4537</td><td class="notAvailable"></td><td>4375</td><td>3101</td><td class="notAvailable"></td><td>3419</td><td>501</td><td>438</td><td>516</td><td>490</td><td>2898</td><td>2952</td><td>2622</td></tr><tr><td>Spain</td><td>340939</td><td>299129</td><td>276742</td><td>336710</td><td>316603</td><td>314345</td><td>335497</td><td>331587</td><td>360327</td><td>365199</td><td>329991</td><td>349743</td><td>295241</td><td>323416</td><td>259564</td><td>204665</td></tr><tr><td>Sweden</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td></tr><tr><td>Türkiye</td><td>78949</td><td>66967</td><td>59716</td><td>72695</td><td>67984</td><td>53793</td><td>39948</td><td>35892</td><td>48610</td><td>66072</td><td>68274</td><td>58727</td><td>74168</td><td>42860</td><td>12690</td><td>9477</td></tr><tr><td>United Kingdom</td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td class="notAvailable"></td><td>44620</td><td>51402</td><td>56352</td><td>64527</td><td>72002</td><td>75117</td><td>80023</td><td>75284</td><td>66598</td><td>63103</td><td>55563</td></tr></tbody></table></div>
+        <div class="modal-footer">
+          <button class="btn btn-primary" data-bs-dismiss="modal" type="button">Close
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+                </div>
+  
+    </div>   
+  
+        </div>
+  
+
+</main>
+
+  <footer id="footer" class="mt-3 mt-lg-5 ">
+          <div class="before-footer d-md-flex justify-content-center py-4">
+        <div class="container">
+            <div class="region region-before-footer">
+    <div id="block-emcdda-admin-feedback-block" class="block block-emcdda-admin-feedback block-emcdda-admin-feedback-block">
+  
+    
+      <div id="feedback-message"><div id="upper-feedback-content"><h2>Was this page helpful?</h2>
+<span class="feedback-yes-button">
+  <input class="feedback-btn feedback-btn__yes btn btn-extra-dark button js-form-submit form-submit" id="feedback-yes-button-31956" data-node-id="31956" data-feedback="yes" data-langcode="en" type="submit" name="op" value="Yes">
+<label for="feedback-yes-button-31956"></label>
+</span><span class="feedback-no-button">
+  <input class="feedback-btn feedback-btn__no btn btn-extra-dark button js-form-submit form-submit" id="feedback-no-button-31956" data-node-id="31956" data-feedback="no" data-langcode="en" type="submit" name="op" value="No">
+<label for="feedback-no-button-31956"></label>
+</span>
+  <input class="feedback-btn feedback-btn__issue button js-form-submit form-submit" data-node-id="31956" data-feedback="no-issue" data-langcode="en" type="submit" name="op" value="Is there an issue with this page?">
+<label for="feedback-issue-button-31956"></label>
+</div>
+<form class="admin-feedback-form" data-drupal-selector="admin-feedback-form" action="https://www.euda.europa.eu/data/stats2024/dlo_en" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <div id="feedback-msg-result"></div><div id="feedback-msg-answers"><fieldset data-drupal-selector="edit-feedback-predefined-answers" id="edit-feedback-predefined-answers--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Select one</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-predefined-answers" class="form-radios"><div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-feedback-predefined-answers form-item-feedback-predefined-answers col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-there-is-a-technical-problem-with-this-page" type="radio" id="edit-feedback-predefined-answers-there-is-a-technical-problem-with-this-page" name="feedback_predefined_answers" value="There is a technical problem with this page" class="form-radio form-control">
+
+
+        <label for="edit-feedback-predefined-answers-there-is-a-technical-problem-with-this-page" class="option form-label">There is a technical problem with this page</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-feedback-predefined-answers form-item-feedback-predefined-answers col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-i-cant-find-the-information-i-am-looking-for" type="radio" id="edit-feedback-predefined-answers-i-cant-find-the-information-i-am-looking-for" name="feedback_predefined_answers" value="I can&#39;t find the information I am looking for" class="form-radio form-control">
+
+
+        <label for="edit-feedback-predefined-answers-i-cant-find-the-information-i-am-looking-for" class="option form-label">I can't find the information I am looking for</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-feedback-predefined-answers form-item-feedback-predefined-answers col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-other" type="radio" id="edit-feedback-predefined-answers-other" name="feedback_predefined_answers" value="Other" class="form-radio form-control">
+
+
+        <label for="edit-feedback-predefined-answers-other" class="option form-label">Other</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+</div><div id="feedback-msg-result"></div><div id="feedback-msg-answers-issue"><fieldset data-drupal-selector="edit-feedback-predefined-answers-issue" id="edit-feedback-predefined-answers-issue--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Please tell us what the issue is (select all that apply).</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-predefined-answers-issue" class="form-checkboxes"><div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-feedback-predefined-answers-issue-the-information-on-the-page-is-not-correct-or-not-up-to-date form-item-feedback-predefined-answers-issue-the-information-on-the-page-is-not-correct-or-not-up-to-date col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-issue-the-information-on-the-page-is-not-correct-or-not-up-to-date" type="checkbox" id="edit-feedback-predefined-answers-issue-the-information-on-the-page-is-not-correct-or-not-up-to-date" name="feedback_predefined_answers_issue[The information on the page is not correct or not up-to-date]" value="The information on the page is not correct or not up-to-date" class="form-checkbox form-control">
+
+
+        <label for="edit-feedback-predefined-answers-issue-the-information-on-the-page-is-not-correct-or-not-up-to-date" class="option form-label">The information on the page is not correct or not up-to-date</label>
+      </div>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-feedback-predefined-answers-issue-there-is-technical-problem-with-the-page-missing-images-or-content-links-or-interactive-features-not-working-as-expected form-item-feedback-predefined-answers-issue-there-is-technical-problem-with-the-page-missing-images-or-content-links-or-interactive-features-not-working-as-expected col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-issue-there-is-technical-problem-with-the-page-missing-images-or-content-links-or-interactive-features-not-working-as-expected" type="checkbox" id="edit-feedback-predefined-answers-issue-there-is-technical-problem-with-the-page-missing-images-or-content-links-or-interactive-features-not-working-as-expected" name="feedback_predefined_answers_issue[There is technical problem with the page (missing images or content, links or interactive features not working as expected)]" value="There is technical problem with the page (missing images or content, links or interactive features not working as expected)" class="form-checkbox form-control">
+
+
+        <label for="edit-feedback-predefined-answers-issue-there-is-technical-problem-with-the-page-missing-images-or-content-links-or-interactive-features-not-working-as-expected" class="option form-label">There is technical problem with the page (missing images or content, links or interactive features not working as expected)</label>
+      </div>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-feedback-predefined-answers-issue-accessibility-issue form-item-feedback-predefined-answers-issue-accessibility-issue col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-issue-accessibility-issue" type="checkbox" id="edit-feedback-predefined-answers-issue-accessibility-issue" name="feedback_predefined_answers_issue[Accessibility issue]" value="Accessibility issue" class="form-checkbox form-control">
+
+
+        <label for="edit-feedback-predefined-answers-issue-accessibility-issue" class="option form-label">Accessibility issue</label>
+      </div>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-feedback-predefined-answers-issue-other-please-use-the-box-below-to-provide-more-information form-item-feedback-predefined-answers-issue-other-please-use-the-box-below-to-provide-more-information col-md">
+        
+  <input data-drupal-selector="edit-feedback-predefined-answers-issue-other-please-use-the-box-below-to-provide-more-information" type="checkbox" id="edit-feedback-predefined-answers-issue-other-please-use-the-box-below-to-provide-more-information" name="feedback_predefined_answers_issue[Other (please use the box below to provide more information)]" value="Other (please use the box below to provide more information)" class="form-checkbox form-control">
+
+
+        <label for="edit-feedback-predefined-answers-issue-other-please-use-the-box-below-to-provide-more-information" class="option form-label">Other (please use the box below to provide more information)</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+</div><div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-feedback-message form-item-feedback-message col-md">
+      <label id="edit-feedback-label" for="edit-feedback-message" class="form-label">Extra feedback</label>
+        <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-message" data-drupal-selector="edit-feedback-message" name="feedback_message" rows="5" cols="60" class="form-textarea resize-vertical"></textarea>
+</div>
+
+        </div>
+
+  <input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value="" class="form-control">
+
+
+  <input class="feedback-btn feedback-btn__send-comment button js-form-submit form-submit" data-drupal-selector="edit-feedback-send" type="submit" id="edit-feedback-send" name="op" value="Send feedback" data-once="drupal-ajax">
+
+
+  <input data-drupal-selector="form-sbrlaxyanorxh0zpyg80rbi00p-ercijh2s8ij2j4b8" type="hidden" name="form_build_id" value="form-SbRLaXYaNORXH0zpyg80RbI00p_eRCijH2S8Ij2J4b8" class="form-control">
+
+
+  <input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form" class="form-control">
+
+
+</form>
+</div>
+
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+        <div class="footer-bottom-wrapper">
+              <div class="footer-top container">
+          <div class="footer-top__inner row">
+            <div class="col-md-6 col-lg-3 pt-4 pb-2 mb-md-0 mt-md-4 my-lg-5 py-md-0">
+                                <div class="region region-footer-1st">
+    <div class="about-the-emcdda block block-block-content block-block-content38b84bc0-cc80-4cfe-a06a-1a8e94dc5013" id="block-block-content-38b84bc0-cc80-4cfe-a06a-1a8e94dc5013">
+  
+    
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <h2 class="visually-hidden">About the EMCDDA</h2>
+
+
+<div class="media media--type-image media--view-mode-default">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/euda-logo-horizontal-white.svg" alt="Logo of EUDA" loading="lazy">
+
+</div>
+            
+  </div>
+
+
+<p>The European Union Drugs Agency (EUDA) is your source of drug-related expertise in Europe. Based in Lisbon, it is one of the EU’s decentralised agencies.</p>
+
+      </div>
+
+                                                
+            
+      <div class="field field--name-field-more-link field--type-link field--label-hidden field__items">
+                  <div class="field__item"><a href="https://www.euda.europa.eu/about_en">
+          READ MORE <i class="fa-solid fa-arrow-right-long"></i></a></div>
+              </div>
+      
+  </div>
+
+  </div>
+
+                          </div>
+            <div class="col-md-6 col-lg-3 pt-4 pb-2 mb-md-0 mt-md-4 my-lg-5 py-md-0">
+                              
+  <div class="follow-us block block-block-content block-block-contentb50a1724-2c39-4139-bf31-722374dca839" id="block-block-content-b50a1724-2c39-4139-bf31-722374dca839">
+  
+    
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <h2>Follow us</h2>
+
+<ul>
+<li><a data-show-count="false" href="https://twitter.com/EUDrugsAgency" media_library="Media Library" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)"><i aria-hidden="true" class="fa-lg fab fa-twitter">&nbsp;</i><span>X/Twitter</span></a></li>
+<li><a href="https://www.facebook.com/EUDrugsAgency" media_library="Media Library" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)"><i aria-hidden="true" class="fa-lg fab fa-facebook">&nbsp;</i><span>Facebook</span></a></li>
+<li><a href="https://www.instagram.com/eudrugsagency/" media_library="Media Library" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)"><i aria-hidden="true" class="fa-lg fab fa-instagram">&nbsp;</i><span>Instagram</span></a></li>
+<li><a href="http://www.linkedin.com/company/eudrugsagency" media_library="Media Library" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)"><i aria-hidden="true" class="fa-lg fab fa-linkedin">&nbsp;</i><span>LinkedIn</span></a></li>
+<li><a href="https://www.youtube.com/@eudrugsagency" media_library="Media Library" rel="noopener noreferrer noreferrer" target="_blank" class="ext" data-extlink="" title="(opens in a new window)"><i aria-hidden="true" class="fa-lg fab fa-youtube">&nbsp;</i><span>YouTube</span></a></li>
+<li><a href="https://www.euda.europa.eu/news/home/rss.xml"><i aria-hidden="true" class="fa-lg fa fa-rss">&nbsp;</i><span>RSS</span></a></li>
+<li><a href="https://www.euda.europa.eu/publications/subscribe"><i aria-hidden="true" class="fa-lg fab fa-mailchimp">&nbsp;</i><span>E-mail updates</span></a></li>
+</ul>
+
+      </div>
+
+  </div>
+
+
+                          </div>
+            <div class="col-md-6 col-lg-3 pt-4 pb-2 mb-md-0 mt-md-4 my-lg-5 py-md-0">
+                              
+  <div class="contact block block-block-content block-block-contente9669f39-35bf-4ac1-9600-694f80c14303" id="block-block-content-e9669f39-35bf-4ac1-9600-694f80c14303">
+  
+    
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <h2>Contact</h2>
+
+<p>The EUDA is located at:</p>
+
+<address>Praça Europa 1, Cais do Sodré<br>
+1249-289 Lisbon<br>
+Portugal<br>
+Tel. (351) 211 21 02 00</address>
+
+      </div>
+
+                                                
+            
+      <div class="field field--name-field-more-link field--type-link field--label-hidden field__items">
+                  <div class="field__item"><a href="https://www.euda.europa.eu/about/contact_en">
+          MORE CONTACT INFORMATION <i class="fa-solid fa-arrow-right-long"></i></a></div>
+              </div>
+      
+  </div>
+
+
+                          </div>
+            <div class="col-md-6 col-lg-3 pt-4 pb-2 mb-md-0 mt-md-4 my-lg-5 py-md-0">
+                              
+  <div class="feedback block block-block-content block-block-content7e88721f-c6c4-4333-853b-38febba48c9d" id="block-block-content-7e88721f-c6c4-4333-853b-38febba48c9d">
+  
+      <h2>More information</h2>
+    
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          <ul>
+<li><a href="https://www.euda.europa.eu/about/contact">Contact us</a></li>
+<li><a href="https://www.euda.europa.eu/about/jobs">Vacancies</a></li>
+<li><a href="https://www.euda.europa.eu/about/legal-notice">Legal notice</a></li>
+<li><a href="https://www.euda.europa.eu/about/data-protection_en">Data protection</a></li>
+</ul>
+
+      </div>
+
+  </div>
+
+
+                          </div>
+          </div>
+        </div>
+                    <div class="footer-bottom d-md-flex justify-content-center py-2">
+          <div class="container">
+            
+  <div class="disclaimer block block-block-content block-block-content9ee6a951-48de-40b7-9db7-cc62131d3dc3" id="block-block-content-9ee6a951-48de-40b7-9db7-cc62131d3dc3">
+  
+    
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+          
+<div class="align-left media media--type-image media--view-mode-default">
+  
+      
+                                                
+                    
+        <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+  
+<img src="./Nombre_Infractions_Cannabis_files/eu_logo1.png" width="24" height="16" alt="Flag of the European Union" loading="lazy">
+
+</div>
+            
+  </div>
+
+
+<p><a href="http://europa.eu/">The EUDA is an agency of the European Union</a>.</p>
+
+      </div>
+
+  </div>
+
+
+          </div>
+        </div>
+          </div>
+  </footer>
+
+
+
+
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/31956","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVUdFuwyAM_CEWpmj_gwx2WhqDIwxL268fbZpp1SpNe8F357NkH6BK1cV8olCl2KA6aIWqzjdmqjG78X0cXdcNPFtP3elv3Q8TuPcu1oPSjhOpwoHUBClksbQFeMAii2-1St7kLCUBxysZVMpKDkGPXqCg2l-KoRQQwQGmvtVEhB7CbF-qzrOE-V8TtwupuSAyR-olLRwhB7KvRIc0QePaJxDsIea3Cl4fjMUDb_ge5Z6koXPlmOc9jQc1k-QKK6kksj_wsJK_UR18gdzv_9OnwhFN38auUmZPORxNpMktsrTFfiOToEoSuxWjF62Uts_7jLSqvb8DnOD8JCTBxvQFRyDaLQ","theme":"euda","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/data\/stats2024\/dlo_en?ajax_form=1":true},"emcdda":{"node":{"id":"31956","lang":"en"}},"matomo":{"disableCookies":false,"trackMailto":true},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003ECookies allow us to collect web statistics and improve our website.\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you are allowing us to analyse traffic and to improve our website.\u0026nbsp;We do not share your data with any third parties or use it in any way to identify you.\u0026nbsp;\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/about\/legal-notice_en","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"html","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"admin_feedback":{"yes_response":"Great! Thank you for giving us your feedback on this page.","no_response":"Thank you for the feedback.","custom_text_response_on_no":null,"feedback_prompt_on_yes":true,"predefined_feedback_prompt_on_yes":true,"feedback_prompt_on_no":true,"feedback_enable_predefined_answers":true,"feedback_prompt":"If you\u0027d like, you can give us more information below (optional).","feedback_prompt_on_issue":true,"feedback_prompt_issue":"Please tell us what the issue is (select all that apply).","feedback_enable_predefined_answers_issue":true},"ajax":{"edit-feedback-send":{"callback":"::validateFeedbackMsg","event":"mousedown","keypress":true,"prevent":"click","url":"\/data\/stats2024\/dlo_en?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send feedback"}}},"views":{"ajax_path":"\/views\/ajax_en","ajaxViews":{"views_dom_id:6beab58df8d792fa11a24775676a21dba8ad0e57e0a761a33e32b951cd28e451":{"view_name":"media_library_node","view_display_id":"sb2023","view_args":"4030\/4036","view_path":"\/node\/31956","view_base_path":"media-library","view_dom_id":"6beab58df8d792fa11a24775676a21dba8ad0e57e0a761a33e32b951cd28e451","pager_element":0}}},"user":{"uid":0,"permissionsHash":"bd555c5d2688c549e59561874a18061a190ed02af0c5a65c2e64efc836954232"}}</script>
+<script src="./Nombre_Infractions_Cannabis_files/js_AqnRDQo2xhqwBm9r7ZmIx3wpWHnFy4LYxm7tkRoJWRA.js.télécharger"></script>
+<script src="./Nombre_Infractions_Cannabis_files/eu_cookie_compliance.min.js.télécharger" defer=""></script>
+<script src="./Nombre_Infractions_Cannabis_files/js_PkgXwvYigBYOD_e3OcB8jzKDzgCHhrttUBQJGgsUyyA.js.télécharger"></script>
+
+  <a href="https://www.euda.europa.eu/data/stats2024/dlo_en#top" id="backToTop" title="Go to top" data-once="backTop" style="display: block;"><i class="fas fa-arrow-up"></i><span class="sr-only">Top</span>
+  </a>
+
+
+<div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div></body></html>
