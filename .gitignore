@@ -8,3 +8,4 @@ __pycache__/
 
 #Dataframes and .csv files
 *.csv
+*.xlsx
