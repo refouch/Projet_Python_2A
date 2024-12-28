@@ -1,7 +1,0 @@
-﻿"Substance","Type","Unit","Measure","low","0.25","0.75","high"
-"Heroin","base","EUR/g","Retail",20.9,23.43,45.7,79
-"Heroin","hydrochloride","EUR/g","Retail",19,34.85,61.12,97
-"Heroin","base","EUR/kg","Wholesale",20059,,,31232
-"Heroin","hydrochloride","EUR/kg","Wholesale",13000,,,30590
-"Heroin","base","%","Purity",5.4,14.4,25,41.65
-"Heroin","hydrochloride","%","Purity",22.6,26.95,42.2,44.14
