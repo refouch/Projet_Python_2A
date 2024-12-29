@@ -1,4 +1,4 @@
-# Quels déterminants de la consommation cannabis en Europe et quelq liens avec sa légalisation ?
+# Quels déterminants de la consommation cannabis en Europe et quels liens avec sa légalisation ?
 *Victor le Lay, Rémi Fouchérand, Quentin Mallegol*
 
 ## Présentation du sujet
@@ -24,3 +24,11 @@ Le projet a été divisé en deux parties:
 2. Une phase d'utilisation des données à des fins descriptives comme de modélisation, décrite dans un second Notebook (`Notebook_Final.ipynb`). Nous vous conseillons de le lire dans un second temps et plus attentivement que le premier, car c'est ce dernier qui contient toutes les expérimentations avec les données, et présente les résultats de notre analyse et les conclusions que nous en avons tiré.
 
 Bonne lecture ! 
+
+## **Remarques sur la reproductibilité du code**
+
+- Bien veiller à ce que le code soit exécuté sur Onyxia en clonant le dépôt github directement dans la *work* afin d'obtenir le chemin d'accès suivant: `~/work/Projet_Python_2A`. Cela est nécéssaire afin que les fichiers de données au format csv puissent s'importer correctement.
+
+- Le code a été pensé pour être exécuté d'un seul bloc, avec la commande "Run all" du Notebook. Il se peut que l'exécutions de certains blocs individuellement pose problème en raison de l'état de certains objets en mémoire. Si des problèmes se présentent, nous vous invitons à refaire un "Run All" afin de bien remettre à jour toutes les variables.
+
+- Concernant la reproductibilité des résultats, notamment ceux des modèles, nous avons tenté de les fixer avec le paramètre 'random_state' de Scikit. Il se peut néanmoins que les résultats diffèrent en fonction de l'environnement. Nous vous invitons si besoin est à modifier les valeurs du 'random_state' et de faire tourner plusieurs fois les modèles pour mieux visualiser les exemples donnés.
